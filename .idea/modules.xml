@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookStore/BookStore.iml" filepath="$PROJECT_DIR$/BookStore/BookStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarDetails/CarDetails.iml" filepath="$PROJECT_DIR$/CarDetails/CarDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleMesurements/CircleMesurements.iml" filepath="$PROJECT_DIR$/CircleMesurements/CircleMesurements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeSalary/EmployeeSalary.iml" filepath="$PROJECT_DIR$/EmployeeSalary/EmployeeSalary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRating/MovieRating.iml" filepath="$PROJECT_DIR$/MovieRating/MovieRating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product/Product.iml" filepath="$PROJECT_DIR$/Product/Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleArea/RectangleArea.iml" filepath="$PROJECT_DIR$/RectangleArea/RectangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" filepath="$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/class_objets_java.iml" filepath="$PROJECT_DIR$/.idea/class_objets_java.iml" />
+    </modules>
+  </component>
+</project>
