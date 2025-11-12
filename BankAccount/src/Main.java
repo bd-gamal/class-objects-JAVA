@@ -44,5 +44,6 @@ class BankAccount {
     public void displayBalance() {
         System.out.println("Numero de compte : "+ accountNumber);
         System.out.println("Solde acteul : "+ balance +" DH");
+        System.out.println("----------------------------");
     }
 }
